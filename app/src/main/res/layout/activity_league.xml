@@ -54,7 +54,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" android:id="@+id/mensLeagueBtn" android:textOff="@string/mens"
                 android:textOn="@string/mens" android:background="@drawable/swoosh_toggle"
-                android:textColor="@android:color/white" android:onClick="onMensClicked" tools:ignore="OnClick"/>
+                android:textColor="@android:color/white" android:onClick="onMensClicked" />
         <ToggleButton
                 android:text="@string/womens"
                 android:layout_width="match_parent"
