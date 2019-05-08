@@ -28,6 +28,7 @@
             android:contentDescription="@string/logo_image"/>
     <TextView
             android:text="@string/desired_league"
+            android:textAllCaps="true"
             app:fontFamily="@font/montserrat"
             android:textAlignment="center"
             android:layout_width="175dp"
